@@ -19,7 +19,6 @@ This project includes user authentication, product management, cart and order AP
 - Admin functionalities
 
 ## Installation & Run
-
 1. Clone the repository
 ```bash
 git clone https://github.com/subhaan-backand/ecommerce-backend-node.git
