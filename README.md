@@ -60,11 +60,22 @@ JWT_SECRET=your_jwt_secret
 npm install  
 npm start
 
+## Project Structure
+
+ecommerce-backend-node/
+│── controllers/
+│── models/
+│── routes/
+│── middleware/
+│── config/
+│── utils/
+│── server.js
+│── app.js
+│── .env
+│── package.json
+
 
 ## Author
 Subhaan Raza  
 Backend Developer (Node.js)  
 Open to Remote Opportunities
-
-
-
